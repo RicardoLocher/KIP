@@ -1,5 +1,6 @@
 KIP/__pycache__/
 core/__pycache__/
 core/migrations/
+venv/
 
 db.sqlite3
